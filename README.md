@@ -1,5 +1,5 @@
-# fcc-api-projects
-RESTful API built with MongoDB, Node.js, and Express for [freeCodeCamp](https://www.freecodecamp.org/learn) APIs and Microservices Certification.
+# freecodecamp-api-projects
+RESTful API built with MongoDB, Node.js, and Express for [freeCodeCamp](https://www.freecodecamp.org/learn) APIs and Microservices Certi.
 
 ## Table of Contents
 * [Introduction](#introduction)
