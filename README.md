@@ -12,7 +12,7 @@ This project is a result of my learning the backend basics with FreeCodeCamp API
 
 ## Demos
 To complete this block and get the certificate I've built 5 small node.js apps, live demos below:
-* [Timestamp Microservice]()
+* [Timestamp Microservice](https://api-test2022-1.herokuapp.com/timestamp)
 * [Request Header Parser Microservice]()
 * [URL Shortener Microservice]()
 * [Exercise Tracker Microservice]()
