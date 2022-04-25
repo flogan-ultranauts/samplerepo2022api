@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fCC API projects</title>
+    <link href="style.css" rel="stylesheet" type="text/css"></link>
+  </head>
+  <body>
+    <nav>
+        <ul>
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+              <a href="/timestamp">Timestamp</a>
+          </li>
+          <li>
+              <a href="/whoami">Request Header Parser</a>
+          </li>
+          <li class="active">
+              <a href="/url-shortener">URL Shortener</a>
+          </li>
+          <li>
+            <a href="/exercise-tracker">Exercise Tracker</a>
+          </li>
+          <li>
+            <a href="/file-metadata">File Metadata</a>
+        </li>
+        </ul>
+      </nav>
+      <div class="container">
+        <h2>API Project: URL Shortener Microservice</h2>
+        <h3>User Stories: </h3>
+        <ol class="user-stories">
+          <li>POST a URL to <code>[project_url]/api/shorturl/new</code> and receive a shortened URL which could be copied</li>
+          <li>Passing an invalid URL that doesn't follow the <code>http(s)://www.example.com<br  class="mobile"/>(/more/routes)</code> format, the JSON response will contain an error like <code>{"error":"invalid URL"}</code><br>
+          </li>
+          <li>When visiting the shortened URL, it will redirect to the original link.</li>
+        </ol>
+        
+        <h3>Short URL Creation </h3>
+        <p>
+          example: <code>POST [project_url]/api/shorturl/new</code> - <code>https://www.google.com</code>
+        </p>
+        <form action="/resultURL" method="POST">
+          <label for="url_input">URL to be shortened</label>
+          <input id="url_input" type="text" name="url" value="https://www.freecodecamp.org">
+          <input type="submit" value="POST URL">
+        </form>
+        <h3>Example Usage:</h3>
+        <a href="https://freecodecamp-api-projects.herokuapp.com/sh/7HKaSo">
+          [this_project_url]/sh/7HKaSo 
+        </a>
+
+        <h3>Will Redirect to:</h3>
+        <p>https://github.com/ulyavrubel/</p>
+      </div>
+      <div class="footer">
+        <p>
+          by <a href="http://www.freecodecamp.com">FreeCodeCamp</a> |  <a href="https://github.com/flogan-ultranauts/samplework2022">FL</a>  
+        </p>
+      </div>
+   
+  </body>
+</html>
