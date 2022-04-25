@@ -11,7 +11,7 @@ RESTful API built with MongoDB, Node.js, and Express for [freeCodeCamp](https://
 This project is a result of my learning the backend basics with FreeCodeCamp APIs and Microservices. Demoing API tests, Node and Databases
 
 ## Demos
-To complete some sample work I've built 5 small node.js apps, live demos below. Note the tester can also clone repo and run npm start to run on the local machine. 
+To complete some sample work I've built five small node.js apps, live demos below. Note the tester can also clone repo and run npm start to run on the local machine. 
 * [Timestamp Microservice](https://api-test2022-1.herokuapp.com/timestamp)
 * [Request Header Parser Microservice](https://api-test2022-1.herokuapp.com/whoami)
 * [URL Shortener Microservice](https://api-test2022-1.herokuapp.com/url-shortener)
