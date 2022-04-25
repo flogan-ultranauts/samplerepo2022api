@@ -3,7 +3,7 @@ RESTful API built with MongoDB, Node.js, and Express for [freeCodeCamp](https://
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Demos](#demos)
+* [Project Samples](#demos)
 * [Technologies](#technologies)
 * [Features](#features)
 
@@ -23,7 +23,7 @@ Technologies I used for this project:
 * Node.js
 * Express.js 
 * with NoSQL Database 
-* API
+* APIs
 
 ## Features
 ### Timestamp Microservice
