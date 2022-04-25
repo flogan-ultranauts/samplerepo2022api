@@ -15,7 +15,7 @@ To complete this block and get the certificate I've built 5 small node.js apps, 
 * [Timestamp Microservice](https://api-test2022-1.herokuapp.com/timestamp)
 * [Request Header Parser Microservice](https://api-test2022-1.herokuapp.com/whoami)
 * [URL Shortener Microservice](https://api-test2022-1.herokuapp.com/url-shortener)
-* [Exercise Tracker Microservice]()
+* [Exercise Tracker Microservice](https://api-test2022-1.herokuapp.com/exercise-tracker)
 * [File Metadata Microservice]()
 
 ## Technologies
