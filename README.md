@@ -14,7 +14,7 @@ This project is a result of my learning the backend basics with FreeCodeCamp API
 To complete this block and get the certificate I've built 5 small node.js apps, live demos below:
 * [Timestamp Microservice](https://api-test2022-1.herokuapp.com/timestamp)
 * [Request Header Parser Microservice](https://api-test2022-1.herokuapp.com/whoami)
-* [URL Shortener Microservice]()
+* [URL Shortener Microservice](https://api-test2022-1.herokuapp.com/url-shortener)
 * [Exercise Tracker Microservice]()
 * [File Metadata Microservice]()
 
